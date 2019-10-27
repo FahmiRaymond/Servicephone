@@ -1,13 +1,15 @@
 # Aplikasi POS Service Smartphone dengan sistem pakarnya
-Submission for Belajar Membuat Aplikasi Android untuk Pemula dari DICODING
 
-##Mock Up
-![Image of Dashboard](https://github.com/FahmiRaymond/Servicephone/blob/master/Dashboard.png)
+## Screenshots
+<img src="https://github.com/FahmiRaymond/Servicephone/raw/master/Dashboard.png"
+     alt="Dashboard"
+     style="float: left; margin-right: 10px;"
+     width="200" />
 
 ## Features
-*Still Progress
+*Still Progress*
 
 ## Author
-* ## Fahmi
-fahmi.noise@gmail.com
-https://github.com/FahmiRaymond
+* ### Fahmi
+*fahmi.noise@gmail.com
+*https://github.com/FahmiRaymond
