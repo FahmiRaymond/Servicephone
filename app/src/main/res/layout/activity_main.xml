@@ -73,8 +73,8 @@
 
                     <ImageView
                         android:src="@drawable/ic_search"
-                        android:layout_width="80dp"
-                        android:layout_height="80dp" />
+                        android:layout_width="75dp"
+                        android:layout_height="75dp" />
 
                     <TextView
                         android:layout_marginTop="12dp"
@@ -108,8 +108,8 @@
 
                     <ImageView
                         android:src="@drawable/ic_service"
-                        android:layout_width="80dp"
-                        android:layout_height="80dp" />
+                        android:layout_width="75dp"
+                        android:layout_height="75dp" />
 
                     <TextView
                         android:layout_marginTop="12dp"
@@ -143,8 +143,8 @@
 
                     <ImageView
                         android:src="@drawable/ic_guarantee"
-                        android:layout_width="80dp"
-                        android:layout_height="80dp" />
+                        android:layout_width="75dp"
+                        android:layout_height="75dp" />
 
                     <TextView
                         android:layout_marginTop="12dp"
@@ -178,8 +178,8 @@
 
                     <ImageView
                         android:src="@drawable/ic_sparepart"
-                        android:layout_width="80dp"
-                        android:layout_height="80dp" />
+                        android:layout_width="75dp"
+                        android:layout_height="75dp" />
 
                     <TextView
                         android:layout_marginTop="12dp"

@@ -6,7 +6,7 @@ import android.os.Handler;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-public class splashscreen extends AppCompatActivity {
+public class Splashscreen extends AppCompatActivity {
     private int loading=4000;
 
     @Override
@@ -16,8 +16,8 @@ public class splashscreen extends AppCompatActivity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                Intent home = new Intent(splashscreen.this, MainActivity.class);
-                startActivity(home);
+                Intent login = new Intent(Splashscreen.this, Login.class);
+                startActivity(login);
                 finish();
             }
         }, loading);
