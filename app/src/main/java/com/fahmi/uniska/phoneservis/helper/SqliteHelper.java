@@ -61,7 +61,6 @@ public class SqliteHelper extends SQLiteOpenHelper {
                 null, null, null);
         if (cursor !=null && cursor.moveToFirst()&& cursor.getCount()>0) {
             User user1 = new User(cursor.getString(0), cursor.getString(1), cursor.getString(2), cursor.getString(3));
-
             if (user.password.equalsIgnoreCase(user1.password)) {
                 return user1;
             }
